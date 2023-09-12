@@ -11,3 +11,5 @@
 9. Spread the jam on a second slice of bread
 10. Put both peices of bread together, making sure the spreaded sides touch each other
 11. Eat
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Peanut-Butter-Jelly-Sandwich.jpg/640px-Peanut-Butter-Jelly-Sandwich.jpg)
