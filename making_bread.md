@@ -8,6 +8,8 @@
 - Eggs
 - Sugar
 - Salt
+- Milk
+- 
 
 ## Method
 1. Proof the yeast by mixing the yeast with warm water and sugar
